@@ -1,0 +1,5 @@
+body{font-family:Arial}
+.tabs button{padding:8px 15px;cursor:pointer}
+.active {background:lightblue;}
+table{border-collapse:collapse;margin-top:10px}
+td,th{padding:4px}
